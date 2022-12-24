@@ -68,3 +68,5 @@ When Help Desk Agent/Admin logs in, they can now see the tickets that are availa
 <p align="center">
   <img src="https://i.imgur.com/BtPSpZs.png" height="65%" width="65%" alt="ticket marked as closed"/>
 </p>
+<b><p align="center">Well that's a wrap, now on to the next package</b></p>
+<p align="center"><b><i>"Ask yourself: How uncomfortable are you willing to become in order to reach your fullest potential?"</b></i></p>
