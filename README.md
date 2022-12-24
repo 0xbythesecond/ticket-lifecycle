@@ -51,11 +51,12 @@ When Help Desk Agent/Admin logs in, they can now see the tickets that are availa
 </p>
 
 <br />
-<p> Below reflects the updates that have occurred in the ticket along with the re-assignments of the ticket. The open ticket "Ticket #756285" has been assigned to Jane Doe.  The ticket was also transferred to System Administrators Department, which was previously under the Support Department.
+<p> Below reflects the updates that have occurred in the ticket along with the re-assignments of the ticket. The open ticket "Ticket #756285" has been assigned to Jane Doe that was previously unassigned to a member of support.  The ticket was reflects that it has been transferred to the System Administrators Department, which was previously under the Support Department.
 </p>
 <p align="center">
   <img src="https://i.imgur.com/NtzUgK9.png" height="65%" width="65%" alt="ticket updates"/>
   </p>
+<p>We can now see that the tickets have been updated from previous screenshot reflects that the tickets is assigned to Jane Doe and the Priority is now Emergency. </p>
   <p align="center">
 <img src="https://i.imgur.com/8Iywct3.png" height="65%" width="65%" alt="ticket updates"/>
   </p>
