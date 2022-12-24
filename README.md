@@ -51,3 +51,7 @@ When Help Desk Agent/Admin logs in, they can now see the tickets that are availa
 </p>
 
 <br />
+<p> Below reflects the updates that have occurred in the ticket along with the re-assignments of the ticket.
+<p>
+  <img src="https://i.imgur.com/NtzUgK9.png" height="80%" width="80%" alt="ticket updates"/>
+  </p>
