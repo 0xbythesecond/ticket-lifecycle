@@ -64,3 +64,7 @@ When Help Desk Agent/Admin logs in, they can now see the tickets that are availa
 <p align="center">
 <img src="https://i.imgur.com/3q7KJ5c.png" height="65%" width="65%" alt="ticket resolved"/>
      </p>
+<p>Now that the ticket has been resolved, it will now be reflected in the 'closed' tickets since it reached a resolution.</p>
+<p>
+  <img src="https://i.imgur.com/BtPSpZs.png" height="65%" width="65%" alt="ticket marked as closed"/>
+</p>
