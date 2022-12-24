@@ -60,3 +60,7 @@ When Help Desk Agent/Admin logs in, they can now see the tickets that are availa
   <p align="center">
 <img src="https://i.imgur.com/8Iywct3.png" height="65%" width="65%" alt="ticket updates"/>
   </p>
+  <p>After connecting with the Sys Admin tean, we received a response letting us know that the ticket has been resolved and now reflects those comments (pictured below). </p>
+<p align="center">
+<img src="https://i.imgur.com/3q7KJ5c.png" height="65%" width="65%" alt="ticket resolved"/>
+     </p>
