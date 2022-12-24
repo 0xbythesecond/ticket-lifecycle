@@ -33,7 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 Customer receives notification letting them know that their ticket/request has been received.
 </p>
 <p align="center">
-<img src="https://i.imgur.com/S82KGP1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/S82KGP1.png" height="80%" width="80%" alt="check request submission"/>
 </p>
 
 <br />
@@ -41,17 +41,18 @@ Customer receives notification letting them know that their ticket/request has b
 When Help Desk Agent/Admin logs in, they can now see the tickets that are available that have been assigned/not assigned with a provided priority. The priority will be set by help desk agent or queue manager working the tickets. The below screen shows the ticket #, last updated, subject, from (user that created the ticket), priority and assigned to.
 </p>
 <p align="center">
-<img src="https://i.imgur.com/9TfvRro.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9TfvRro.png" height="80%" width="80%" alt="helpdesk dashboard"/>
 </p>
 
 <br />
 <p>Working the 'entire mobile online banking is down' ticket that has a default priority of Normal, we are going to update it to Emergency since this is a business impacting event. Below reflects the selection of changing the priority and updating the notes. 
 <p>
-<img src="https://i.imgur.com/bKvZzmJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bKvZzmJ.png" height="80%" width="80%" alt="changing priority"/>
 </p>
 
 <br />
 <p> Below reflects the updates that have occurred in the ticket along with the re-assignments of the ticket.
+</p>
 <p>
   <img src="https://i.imgur.com/NtzUgK9.png" height="80%" width="80%" alt="ticket updates"/>
   </p>
