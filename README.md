@@ -46,13 +46,13 @@ When Help Desk Agent/Admin logs in, they can now see the tickets that are availa
 
 <br />
 <p>Working the 'entire mobile online banking is down' ticket that has a default priority of Normal, we are going to update it to Emergency since this is a business impacting event. Below reflects the selection of changing the priority and updating the notes. 
-<p>
+<p align="center">
 <img src="https://i.imgur.com/bKvZzmJ.png" height="80%" width="80%" alt="changing priority"/>
 </p>
 
 <br />
 <p> Below reflects the updates that have occurred in the ticket along with the re-assignments of the ticket.
 </p>
-<p>
+<p align="center">
   <img src="https://i.imgur.com/NtzUgK9.png" height="80%" width="80%" alt="ticket updates"/>
   </p>
