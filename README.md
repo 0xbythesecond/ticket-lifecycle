@@ -24,27 +24,28 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>Below show the customer/End-User experience in creating a ticket to submit to the help desk
+<p>Below shows the customer/End-User experience in creating a ticket to submit to the help desk
 </p>
-<p>
+<p align="center">
 <img src="https://i.imgur.com/d4GVlJF.png" height="65%" width="65%" alt="end-user experience"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Customer receives notification letting them know that their ticket/request has been received.
+</p>
+<p align="center">
+<img src="https://i.imgur.com/S82KGP1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br />
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+When Help Desk Agent/Admin logs in, they can now see the tickets that are available that have been assigned/not assigned with a provided priority. The priority will be set by help desk agent or queue manager working the tickets. The below screen shows the ticket #, last updated, subject, from (user that created the ticket), priority and assigned to.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9TfvRro.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br />
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
