@@ -24,7 +24,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>Below shows the customer/End-User experience in creating a ticket to submit to the help desk
+<p>Below shows the Customer/End-User experience in creating a ticket to submit to the help desk
 </p>
 <p align="center">
 <img src="https://i.imgur.com/d4GVlJF.png" height="65%" width="65%" alt="end-user experience"/>
@@ -45,7 +45,7 @@ When Help Desk Agent/Admin logs in, they can now see the tickets that are availa
 </p>
 
 <br />
-<p>Working the 'entire mobile online banking is down' ticket that has a default priority of Normal, we are going to update it to Emergency since this is a business impacting event. Below reflects the selection of changing the priority and updating the notes. 
+<p>Working the "entire mobile online banking is down" ticket that has a default priority of Normal, we are going to update it to Emergency since this is a business impacting event. Below reflects the selection of changing the priority and updating the notes. 
 <p align="center">
 <img src="https://i.imgur.com/bKvZzmJ.png" height="80%" width="80%" alt="changing priority"/>
 </p>
@@ -64,7 +64,7 @@ When Help Desk Agent/Admin logs in, they can now see the tickets that are availa
 <p align="center">
 <img src="https://i.imgur.com/3q7KJ5c.png" height="65%" width="65%" alt="ticket resolved"/>
      </p>
-<p>Now that the ticket has been resolved, it will now be reflected in the 'closed' tickets since it reached a resolution.</p>
+<p>Now that the ticket has been resolved, it will now be reflected in the 'closed' tickets column since it reached a resolution.</p>
 <p align="center">
   <img src="https://i.imgur.com/BtPSpZs.png" height="65%" width="65%" alt="ticket marked as closed"/>
 </p>
