@@ -44,6 +44,7 @@ Customer receives notification letting them know that their ticket/request has b
 
 <br />
 
+#### Intake: 
 When Help Desk Agent/Admin logs in, they can now see the tickets that are available that have been assigned/not assigned with a provided priority. The priority will be set by help desk agent or queue manager working the tickets. The below screen shows the `Ticket #`, `Last Updated`, `Subject`, `From` (user that created the ticket), priority and `Assigned To` (queue manager can assigned the ticket or person viewing the ticket can assign it to themselves).
 
 <p align="center">
@@ -52,6 +53,7 @@ When Help Desk Agent/Admin logs in, they can now see the tickets that are availa
 
 <br />
 
+#### Working the issues:
 Working the `entire mobile online banking is down` ticket that has a default priority of Normal, we are going to update it to Emergency since this is a business impacting event. Below reflects the selection of changing the priority and updating the notes: 
 
 <p align="center">
@@ -72,6 +74,7 @@ We can now see that the tickets have been updated from previous screenshot refle
 <img src="https://i.imgur.com/8Iywct3.png" height="65%" width="65%" alt="ticket updates"/>
   </p>
 
+##### Resoltuion:
 After connecting with the Sys Admin tean, we received a response letting us know that the ticket has been resolved and now reflects those comments (pictured below). 
 
 <p align="center">
