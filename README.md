@@ -45,7 +45,7 @@ Customer receives notification letting them know that their ticket/request has b
 <br />
 
 #### Intake: 
-When Help Desk Agent/Admin logs in, they can now see the tickets that are available that have been assigned/not assigned with a provided priority. The priority will be set by help desk agent or queue manager working the tickets. The below screen shows the `Ticket #`, `Last Updated`, `Subject`, `From` (user that created the ticket), priority and `Assigned To` (queue manager can assigned the ticket or person viewing the ticket can assign it to themselves).
+When Help Desk Agent/Admin logs in, they can now see the tickets that are available that have been assigned/not assigned with a provided priority. The priority will be set by help desk agent or queue manager working the tickets. The below screen shows the `Ticket #`, `Last Updated`, `Subject`, `From` (user that created the ticket), priority and `Assigned To` (queue manager can assign the ticket, person viewing the ticket can assign it to themselves or it can be assigned to a team ).
 
 <p align="center">
 <img src="https://i.imgur.com/9TfvRro.png" height="80%" width="80%" alt="helpdesk dashboard"/>
